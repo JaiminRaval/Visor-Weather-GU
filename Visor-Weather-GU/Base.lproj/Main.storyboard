@@ -25,7 +25,7 @@
             </objects>
             <point key="canvasLocation" x="-514" y="794"/>
         </scene>
-        <!--All Cities-->
+        <!--Cities-->
         <scene sceneID="vxL-Di-EcI">
             <objects>
                 <viewController id="TNL-1z-pQe" sceneMemberID="viewController">
@@ -35,7 +35,7 @@
                         <viewLayoutGuide key="safeArea" id="kuT-hE-8NE"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="All Cities" selectedImage="list.bullet.rectangle" catalog="system" id="CZX-eY-HGr"/>
+                    <tabBarItem key="tabBarItem" title="Cities" selectedImage="list.bullet.rectangle" catalog="system" id="CZX-eY-HGr"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Pmr-GE-7Tc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
