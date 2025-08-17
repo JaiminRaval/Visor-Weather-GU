@@ -10,4 +10,9 @@ import UIKit
 
 class ApiManager {
     
+    let shared = ApiManager()
+    
+    func fetchWeatherData() {
+        
+    }
 }
